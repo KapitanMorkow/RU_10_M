@@ -340,28 +340,190 @@ function load(){
 	setup();
 }
 
-// EN songs
+// RU songs
+const ru_2010_m_icon = [
+	'ru_pop',
+	'rap'
+];
 
+const RU_2010_M_PACK_1 = 1;
+const RU_2010_M_PACK_2 = 2;
 
+let ru_2010_m = [
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Сергей Трофимов',
+		song : "Не расказывай"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Митя Фомин',
+		song : "Ла-Ла"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Стас Михайлов',
+		song : "Отпусти (ft Таисия Повалий)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Филипп Киркоров',
+		song : "Струны"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Филипп Киркоров',
+		song : "Снег"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Стас Пьеха',
+		song : "Я и ты (ft Слава)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Григорий Лепс',
+		song : "Самый лучший день"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Митя Фомин',
+		song : "Paninaro (Огни большого города)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Стас Михайлов',
+		song : "Только ты"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Дима Билан',
+		song : "Я просто люблю тебя"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Доминик Джокер',
+		song : "Если ты со мной"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Григорий Лепс',
+		song : "Я стану водопадом"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Филипп Киркоров',
+		song : "Я отпускаю тебя"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Иракли',
+		song : "Нелюбовь (ft Даша Суворова)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Стас Пьеха',
+		song : "Старая история"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Джиган',
+		song : "Нас больше нет"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Dan Balan',
+		song : "Лишь до утра"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Семён Слепаков',
+		song : "Круглосуточно красивая женщина"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Григорий Лепс',
+		song : "Я счастливый"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Егор Крид',
+		song : "Невеста"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Егор Крид',
+		song : "Будильник"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Макс Корж',
+		song : "Небо поможет нам"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Макс Корж',
+		song : "Малый повзрослел"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Макс Корж',
+		song : "Это наш путь"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Иван Дорн',
+		song : "Бигуди"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Баста',
+		song : "Сансара"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Баста',
+		song : "Каменные цветы"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Баста',
+		song : "Райские яблоки"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Иван Дорн',
+		song : "Школьное окно"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Иван Дорн',
+		song : "Стыцамэн"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Егор Крид',
+		song : "Слеза (2018)"
+	}
+];
+
+let ru_2010_m_1 =	ru_2010_m.filter(item => item.pack == 1);
+let ru_2010_m_2 =	ru_2010_m.filter(item => item.pack == 2);
 
 let music = [
 	{
-		arr: en_2000_m,
-		lang: 'en',
-		year: '2000',
+		arr: ru_2010_m,
+		lang: 'ru',
+		year: '2010',
 		type: 'm',
 		packs: [
 				{
-					arr: en_2000_m_1,
-					name: 'EN 2000s Male: Pop',
+					arr: ru_2010_m_1,
+					name: 'RU 2010s Male: Pop',
 				},
 				{
-					arr: en_2000_m_2,
-					name: 'EN 2000s Male: Dj',
-				},
-				{
-					arr: en_2000_m_3,
-					name: 'EN 2000s Male: Rap',
+					arr: ru_2010_m_2,
+					name: 'RU 2010s Male: Rap',
 				}
 			]
 	}
@@ -687,15 +849,15 @@ let generateAudioPath;
 let generateImgPath;
 
 function setup(){
-	lang = 'en';
-	year = '2000';
+	lang = 'ru';
+	year = '2010';
 	artist_type = 'm';
 	back = back_to_packages;
 	modeToggle = toggleArtist;
 	setMedia = setAudio;
 	rightAnswer = rightAnswer_RU;
 	count_time();
-	package_names = en_2000_gr_icon;
+	package_names = ru_2010_m_icon;
 	show_packages(package_names.length);
 	document.body.scrollTop = document.documentElement.scrollTop = 0;
 }
