@@ -146,6 +146,7 @@ function toggleGameButton(){
 let lang_letter;
 
 function learn(){
+	hide_navi_icons();
 	if(withoutAnswers){
 		$('.without_answers').show();
 	} else {
@@ -717,7 +718,6 @@ function show_packages(num){
 }
 
 function package_num(num){
-	hide_navi_icons();
 	$('#current_pack').show();
 	$('#current_pack').attr('src', $('#package_' + num).attr('src'));
 	back = back_to_packages;
