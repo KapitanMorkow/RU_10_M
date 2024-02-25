@@ -533,10 +533,13 @@ let music = [
 let songs_to_map;
 let mapping_result;
 function map_songs(){
+	back = back_to_current_pack;
 	$('.package').hide();
 	$('#mirror').hide();
 	$('#map').hide();
-	$('#mapping').show();
+	$('#package_content').hide();
+	$('#mapping_content').show();
+	toggleLearn();
 	for(var j=0; j < music.length; j++){
 		music[j].arr = generateSongIdsWithPrefix(music[j].arr, music[j].lang, 
 												music[j].year, music[j].type);
