@@ -860,4 +860,29 @@ function setup(){
 	package_names = ru_2010_m_icon;
 	show_packages(package_names.length);
 	document.body.scrollTop = document.documentElement.scrollTop = 0;
+	useUrlParam();
+}
+
+let pack_num;
+let year_url = 'https://sunquiz.netlify.app/2010';
+
+function useUrlParam() {
+	var url_string = window.location.href; 
+	var url = new URL(url_string);
+	pack_num = url.searchParams.get("pack");
+	if(pack_num){
+		package_num(pack_num);
+	}
+	back = back_to_browser;
+}
+
+function back_to_browser(){
+	window.location.href = year_url;
+}
+
+function back_to_current_pack(){
+	back = back_to_browser;
+	$('#mapping_content').hide();
+	$('#map').show();
+	package_num(pack_num);
 }
