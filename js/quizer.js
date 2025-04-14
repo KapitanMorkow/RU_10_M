@@ -354,157 +354,254 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Сергей Трофимов',
-		song : "Не расказывай"
+		song : "Не расcказывай (2010)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Митя Фомин',
-		song : "Ла-Ла"
+		song : "Ла-Ла (2010)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Стас Михайлов',
-		song : "Отпусти (ft Таисия Повалий)"
+		song : "Отпусти (ft Таисия Повалий) (2010)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Филипп Киркоров',
-		song : "Струны"
+		song : "Струны",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Филипп Киркоров',
-		song : "Снег"
+		song : "Снег",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Стас Пьеха',
-		song : "Я и ты (ft Слава)"
+		song : "Я и ты (ft Слава) (2013)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Григорий Лепс',
-		song : "Самый лучший день"
+		song : "Самый лучший день (2011)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Митя Фомин',
-		song : "Paninaro (Огни большого города)"
+		song : "Paninaro (Огни большого города) (2011)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Стас Михайлов',
-		song : "Только ты"
+		song : "Только ты (2011)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Дима Билан',
-		song : "Я просто люблю тебя"
+		song : "Я просто люблю тебя (2010)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Доминик Джокер',
-		song : "Если ты со мной"
+		song : "Если ты со мной (2012)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Григорий Лепс',
-		song : "Я стану водопадом"
+		song : "Водопадом (2012)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Филипп Киркоров',
-		song : "Я отпускаю тебя"
+		song : "Я отпускаю тебя",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Иракли',
-		song : "Нелюбовь (ft Даша Суворова)"
+		song : "Нелюбовь (ft Даша Суворова) (2016)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Стас Пьеха',
-		song : "Старая история"
+		song : "Старая история (2012)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Джиган',
-		song : "Нас больше нет"
+		song : "Нас больше нет (2012)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Dan Balan',
-		song : "Лишь до утра"
+		song : "Лишь до утра (2011)"
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Семён Слепаков',
-		song : "Круглосуточно красивая женщина"
+		song : "Круглосуточно красивая женщина",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Григорий Лепс',
-		song : "Я счастливый"
+		song : "Я счастливый (2013)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Егор Крид',
-		song : "Невеста"
+		song : "Невеста (2015)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Егор Крид',
-		song : "Будильник"
+		song : "Будильник (2015)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Макс Корж',
-		song : "Небо поможет нам"
+		song : "Небо поможет нам (2012)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Макс Корж',
-		song : "Малый повзрослел"
+		song : "Малый повзрослел (2016)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Макс Корж',
-		song : "Это наш путь"
+		song : "Это наш путь (2022)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Иван Дорн',
-		song : "Бигуди"
+		song : "Бигуди",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Баста',
-		song : "Сансара"
+		song : "Сансара (2017)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Баста',
-		song : "Каменные цветы"
+		song : "Каменные цветы (2014)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Баста',
-		song : "Райские яблоки"
+		song : "Райские яблоки (2013)"
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Иван Дорн',
-		song : "Школьное окно"
+		song : "Школьное окно",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Иван Дорн',
-		song : "Стыцамэн"
+		song : "Стыцамэн",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Егор Крид',
 		song : "Слеза (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Feduk',
+		song : "Хлопья летят наверх (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Feduk',
+		song : "Моряк (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Feduk',
+		song : "27 (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Элджей',
+		song : "Розовое вино (ft Feduk) (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Элджей',
+		song : "360° (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Элджей',
+		song : "Минимал (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Matrang',
+		song : "Медуза (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Matrang',
+		song : "От Луны до Марса (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Matrang',
+		song : "Вода (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jah Khalib',
+		song : "Ты словно целая вселенная (2015)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jah Khalib',
+		song : "Медина (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jah Khalib',
+		song : "Сжигая дотла (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jony',
+		song : "Без тебя я не я (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jony',
+		song : "Love Your Voice (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jony',
+		song : "Лали (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Мот',
+		song : "Капкан (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Мот',
+		song : "Сопрано (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Мот',
+		song : "Она не твоя (2018)"
 	}
 ];
 
