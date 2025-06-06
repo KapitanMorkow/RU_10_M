@@ -617,6 +617,36 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_2,
 		group : 'Ислам Итляшев',
 		song : "Сабина (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Сергей Лазарев',
+		song : "В Самое Сердце (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Сергей Лазарев',
+		song : "Шёпотом (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Сергей Лазарев',
+		song : "Это всё она (2015)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'MACAN',
+		song : "Пьяное голосовое (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'MACAN',
+		song : "Shazam (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'MACAN',
+		song : "М16 (2019)"
 	}
 ];
 
