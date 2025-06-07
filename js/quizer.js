@@ -430,7 +430,7 @@ let ru_2010_m = [
 		song : "Старая история (2012)"
 	},
 	{
-		pack : RU_2010_M_PACK_1,
+		pack : RU_2010_M_PACK_2,
 		group : 'Джиган',
 		song : "Нас больше нет (2012)"
 	},
@@ -451,12 +451,12 @@ let ru_2010_m = [
 		song : "Я счастливый (2013)"
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Егор Крид',
 		song : "Невеста (2015)"
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Егор Крид',
 		song : "Будильник (2015)"
 	},
@@ -509,7 +509,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Егор Крид',
 		song : "Слеза (2018)"
 	},
@@ -596,12 +596,14 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Мот',
-		song : "Сопрано (2017)"
+		song : "Сопрано (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Мот',
-		song : "Она не твоя (2018)"
+		song : "Она не твоя (2018)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
@@ -661,7 +663,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Niletto',
-		song : "Довела (ft BITTUEV) (2019)"
+		song : "Довела (ft BITTUEV) (2019)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
@@ -692,6 +695,21 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_1,
 		group : 'Тима Белорусских',
 		song : "Мокрые кроссы (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Мот',
+		song : "Белые ночи (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Мот',
+		song : "Как к себе домой (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Niletto',
+		song : "Грустный смайл (2019)"
 	}
 ];
 
