@@ -662,6 +662,21 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_2,
 		group : 'Niletto',
 		song : "Довела (ft BITTUEV) (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Хабиб',
+		song : "Недотрога (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Хабиб',
+		song : "Лето любовь (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Хабиб',
+		song : "Фосфор (2019)"
 	}
 ];
 
