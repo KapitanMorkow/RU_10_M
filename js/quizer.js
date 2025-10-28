@@ -710,6 +710,21 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_2,
 		group : 'Niletto',
 		song : "Грустный смайл (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Хаски',
+		song : "Иуда (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Хаски',
+		song : "Панелька (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Хаски',
+		song : "Пуля-дура (2016)"
 	}
 ];
 
