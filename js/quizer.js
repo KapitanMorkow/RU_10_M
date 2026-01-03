@@ -756,6 +756,16 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_1,
 		group : 'Алексей Воробьёв',
 		song : "Самая красивая (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Markul',
+		song : "Скалы (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Markul',
+		song : "Худший друг (2018)"
 	}
 ];
 
