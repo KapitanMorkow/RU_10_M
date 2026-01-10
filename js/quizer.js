@@ -344,11 +344,13 @@ function load(){
 // RU songs
 const ru_2010_m_icon = [
 	'ru_pop',
-	'rap'
+	'rap',
+	'pop'
 ];
 
 const RU_2010_M_PACK_1 = 1;
 const RU_2010_M_PACK_2 = 2;
+const RU_2010_M_PACK_3 = 3;
 
 let ru_2010_m = [
 	{
@@ -404,7 +406,7 @@ let ru_2010_m = [
 		song : "Я просто люблю тебя (2010)"
 	},
 	{
-		pack : RU_2010_M_PACK_1,
+		pack : RU_2010_M_PACK_3,
 		group : 'Доминик Джокер',
 		song : "Если ты со мной (2012)"
 	},
@@ -776,11 +778,112 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_2,
 		group : 'Слава КПСС',
 		song : "Грустные танцы (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : '10AGE',
+		song : "Зоопарк (2021)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'ALBLAK 52',
+		song : "+7(952)812 (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'AP$ENT',
+		song : "Можно я с тобой (2022)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'ATL',
+		song : "Солнышко (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Poёt',
+		song : "БЕГИ (ft DJ Smash) (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Bobina',
+		song : "Нефть (ft DJ Smash ft Vengerov ft Matua & Averin & Kravets) (2013)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'HENSY',
+		song : "Поболело и прошло (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'HOMIE',
+		song : "Безумно можно быть первым (2014)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Icegergert',
+		song : "Банк (ft Zivert) (2025)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Jakone',
+		song : "Дорога дальняя (ft Kiliana) (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Jazzdauren',
+		song : "Дарите женщинам цветы (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Kamazz',
+		song : "В тебе до капли растворюсь (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'kizaru',
+		song : "Дежавю (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : "L'One",
+		song : "Все Танцуют Локтями (2013)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Limba',
+		song : "Секрет (2022)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Lizer',
+		song : "Корабли (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Loc-Dog',
+		song : "Снимки (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Mnogoznaal',
+		song : "Колхозник (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Mujuice',
+		song : "Кровь На Танцполе (2011)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Натан',
+		song : "Дерзкая (ft Тимати) (2015)"
 	}
 ];
 
 let ru_2010_m_1 =	ru_2010_m.filter(item => item.pack == 1);
 let ru_2010_m_2 =	ru_2010_m.filter(item => item.pack == 2);
+let ru_2010_m_3 =	ru_2010_m.filter(item => item.pack == 3);
 
 let music = [
 	{
@@ -796,6 +899,10 @@ let music = [
 				{
 					arr: ru_2010_m_2,
 					name: 'RU 2010s Male: Rap',
+				},
+				{
+					arr: ru_2010_m_3,
+					name: 'RU 2010s Male: One Hit Wonders',
 				}
 			]
 	}
