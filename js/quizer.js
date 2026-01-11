@@ -345,12 +345,14 @@ function load(){
 const ru_2010_m_icon = [
 	'ru_pop',
 	'rap',
-	'pop'
+	'pop',
+	'pop_2'
 ];
 
 const RU_2010_M_PACK_1 = 1;
 const RU_2010_M_PACK_2 = 2;
 const RU_2010_M_PACK_3 = 3;
+const RU_2010_M_PACK_4 = 4;
 
 let ru_2010_m = [
 	{
@@ -810,12 +812,12 @@ let ru_2010_m = [
 		song : "Нефть (ft DJ Smash ft Vengerov ft Matua & Averin & Kravets) (2013)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'HENSY',
 		song : "Поболело и прошло (2020)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'HOMIE',
 		song : "Безумно можно быть первым (2014)"
 	},
@@ -840,7 +842,7 @@ let ru_2010_m = [
 		song : "В тебе до капли растворюсь (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'kizaru',
 		song : "Дежавю (2019)"
 	},
@@ -855,42 +857,42 @@ let ru_2010_m = [
 		song : "Секрет (2022)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Lizer',
 		song : "Корабли (2018)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Loc-Dog',
 		song : "Снимки (2019)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Mnogoznaal',
 		song : "Колхозник (2020)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Mujuice',
 		song : "Кровь На Танцполе (2011)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Натан',
 		song : "Дерзкая (ft Тимати) (2015)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Pharaon',
 		song : "5 минут назад (ft Boulevard Depo) (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Пика',
 		song : "Патимэйкер (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Cygo',
 		song : "Panda E (2018)"
 	},
@@ -900,17 +902,17 @@ let ru_2010_m = [
 		song : "Сияй (2020)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'SALUKI',
 		song : "ОГНЕЙ (2022)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Саша Санта',
 		song : "Завязали (ft Артём Качер) (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Sevak',
 		song : "Жди меня там (2020)"
 	},
@@ -920,7 +922,7 @@ let ru_2010_m = [
 		song : "Озеро в лесу (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'ST',
 		song : "Бумер (2020)"
 	},
@@ -940,22 +942,17 @@ let ru_2010_m = [
 		song : "I GOT U (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
-		group : 'T-Fest',
-		song : "Улети (2017)"
-	},
-	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'VTORNIK',
 		song : "Run Run Run (2021)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Xcho',
 		song : "Волна (2019)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'ZippO',
 		song : "Держи её за руку (2016)"
 	},
@@ -965,17 +962,17 @@ let ru_2010_m = [
 		song : "Голоса (2018)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Антоха МС',
 		song : "Время ток (2017)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Артем Пивоваров',
 		song : "Кислород (2017)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Вадяра Блюз',
 		song : "Есть как есть (2019)"
 	},
@@ -985,27 +982,27 @@ let ru_2010_m = [
 		song : "Еду в Магадан (2010)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Влад Соколовский',
 		song : "Осколки души (2013)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Вова Солодков',
 		song : "Барабулька (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Ганвест',
 		song : "Никотин (2018)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Гарик Кричевский',
 		song : "Мой номер 245 (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Гарри Топор',
 		song : "Арес 12 (2017)"
 	},
@@ -1020,22 +1017,22 @@ let ru_2010_m = [
 		song : "Дымок (2023)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Карандаш',
 		song : "Права (2017)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Людмил Огурченко',
 		song : "Таити (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Макс Барских',
 		song : "Туманы (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Максим Свобода',
 		song : "Мы бы (2021)"
 	},
@@ -1050,7 +1047,7 @@ let ru_2010_m = [
 		song : "Французский поцелуй (ft ХАННА) (2020)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'МС Хованский',
 		song : "Супервейпер (2018)"
 	},
@@ -1065,7 +1062,7 @@ let ru_2010_m = [
 		song : "неважно (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Нурминский',
 		song : "Валим (2019)"
 	},
@@ -1075,7 +1072,7 @@ let ru_2010_m = [
 		song : "#Ракетабомбапетарда (2019)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Паша Панамо',
 		song : "Говорили (2016)"
 	},
@@ -1085,7 +1082,7 @@ let ru_2010_m = [
 		song : "Вечеринка (2015)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Славик Погосов',
 		song : "Монро (2022)"
 	},
@@ -1095,7 +1092,7 @@ let ru_2010_m = [
 		song : "Было и было (2013)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Тимур Родригез',
 		song : "О тебе (2013)"
 	},
@@ -1105,22 +1102,22 @@ let ru_2010_m = [
 		song : "закрываю глаза (2024)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Хамиль',
 		song : "Нелётная (2014)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Шым',
 		song : "Песня про месть (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'Эльбрус Джанмирзоев',
 		song : "Бродяга (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_4,
 		group : 'ЮрКисс',
 		song : "Выстрелы (2021)"
 	}
