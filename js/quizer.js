@@ -1120,6 +1120,16 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_4,
 		group : 'ЮрКисс',
 		song : "Выстрелы (2021)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Amirchik',
+		song : "Эта любовь (2022)"
+	},
+	{
+		pack : RU_2010_M_PACK_4,
+		group : 'EMIN',
+		song : "Я лучше всех живу (2013)"
 	}
 ];
 
