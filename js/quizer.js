@@ -1126,6 +1126,7 @@ let ru_2010_m = [
 let ru_2010_m_1 =	ru_2010_m.filter(item => item.pack == 1);
 let ru_2010_m_2 =	ru_2010_m.filter(item => item.pack == 2);
 let ru_2010_m_3 =	ru_2010_m.filter(item => item.pack == 3);
+let ru_2010_m_4 =	ru_2010_m.filter(item => item.pack == 4);
 
 let music = [
 	{
@@ -1145,6 +1146,10 @@ let music = [
 				{
 					arr: ru_2010_m_3,
 					name: 'RU 2010s Male: One Hit Wonders',
+				},
+				{
+					arr: ru_2010_m_4,
+					name: 'RU 2010s Male: One Hit Wonders less famous',
 				}
 			]
 	}
