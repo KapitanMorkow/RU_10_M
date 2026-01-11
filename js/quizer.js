@@ -878,6 +878,251 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_3,
 		group : 'Натан',
 		song : "Дерзкая (ft Тимати) (2015)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Pharaon',
+		song : "5 минут назад (ft Boulevard Depo) (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Пика',
+		song : "Патимэйкер (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Cygo',
+		song : "Panda E (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : "Ramil'",
+		song : "Сияй (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'SALUKI',
+		song : "ОГНЕЙ (2022)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Саша Санта',
+		song : "Завязали (ft Артём Качер) (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Sevak',
+		song : "Жди меня там (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'SQWOZ BAB',
+		song : "Озеро в лесу (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'ST',
+		song : "Бумер (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'T-Fest',
+		song : "Улети (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'T-Killah',
+		song : "Гречка мартини (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Toxi$',
+		song : "I GOT U (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'T-Fest',
+		song : "Улети (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'VTORNIK',
+		song : "Run Run Run (2021)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Xcho',
+		song : "Волна (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'ZippO',
+		song : "Держи её за руку (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Zvonkiy',
+		song : "Голоса (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Антоха МС',
+		song : "Время ток (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Артем Пивоваров',
+		song : "Кислород (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Вадяра Блюз',
+		song : "Есть как есть (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Вася Обломов',
+		song : "Еду в Магадан (2010)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Влад Соколовский',
+		song : "Осколки души (2013)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Вова Солодков',
+		song : "Барабулька (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Ганвест',
+		song : "Никотин (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Гарик Кричевский',
+		song : "Мой номер 245 (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Гарри Топор',
+		song : "Арес 12 (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Гио Пика',
+		song : "Где прошла ты (ft Кравц) (2023)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Ицык Цыпер',
+		song : "Дымок (2023)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Карандаш',
+		song : "Права (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Людмил Огурченко',
+		song : "Таити (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Макс Барских',
+		song : "Туманы (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Максим Свобода',
+		song : "Мы бы (2021)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Мальбэк',
+		song : "Гипнозы (ft Сюзанна) (2017)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Миша Маврин',
+		song : "Французский поцелуй (ft ХАННА) (2020)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'МС Хованский',
+		song : "Супервейпер (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'МУККА',
+		song : "Девочка с каре (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'наше последнее лето',
+		song : "неважно (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Нурминский',
+		song : "Валим (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Олег Кензов',
+		song : "#Ракетабомбапетарда (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Паша Панамо',
+		song : "Говорили (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Скриптонит',
+		song : "Вечеринка (2015)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Славик Погосов',
+		song : "Монро (2022)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Смоки Мо',
+		song : "Было и было (2013)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Тимур Родригез',
+		song : "О тебе (2013)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'тринадцать карат',
+		song : "закрываю глаза (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Хамиль',
+		song : "Нелётная (2014)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Шым',
+		song : "Песня про месть (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Эльбрус Джанмирзоев',
+		song : "Бродяга (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'ЮрКисс',
+		song : "Выстрелы (2021)"
 	}
 ];
 
