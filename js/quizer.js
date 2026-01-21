@@ -1130,6 +1130,11 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_4,
 		group : 'EMIN',
 		song : "Я лучше всех живу (2013)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'BLIZKEY',
+		song : "Горы (2024)"
 	}
 ];
 
