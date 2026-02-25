@@ -441,7 +441,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Dan Balan',
-		song : "Лишь до утра (2011)"
+		song : "Лишь до утра (2011)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
@@ -1135,6 +1136,11 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_3,
 		group : 'BLIZKEY',
 		song : "Горы (2024)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Митя Фомин',
+		song : "Все Будет Хорошо (2010)"
 	}
 ];
 
@@ -1178,6 +1184,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1516,6 +1523,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
