@@ -589,7 +589,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Jony',
-		song : "Love Your Voice (2019)"
+		song : "Love Your Voice (2019)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
@@ -597,18 +598,18 @@ let ru_2010_m = [
 		song : "Лали (2019)"
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Мот',
 		song : "Капкан (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Мот',
 		song : "Сопрано (2017)",
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Мот',
 		song : "Она не твоя (2018)",
 		ignore : true
@@ -705,14 +706,16 @@ let ru_2010_m = [
 		song : "Мокрые кроссы (2018)"
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Мот',
-		song : "Белые ночи (2018)"
+		song : "Белые ночи (2018)",
+		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_2,
+		pack : RU_2010_M_PACK_1,
 		group : 'Мот',
-		song : "Как к себе домой (2019)"
+		song : "Как к себе домой (2019)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
@@ -1204,6 +1207,21 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_1,
 		group : 'NЮ',
 		song : "Я буду бухать (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Мот',
+		song : "День и ночь (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'Мот',
+		song : "Соло (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Jony',
+		song : "Комета (2019)"
 	}
 ];
 
