@@ -1222,6 +1222,21 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_2,
 		group : 'Jony',
 		song : "Комета (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Лёша Свик',
+		song : "Девчонка (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Лёша Свик',
+		song : "Дым (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_2,
+		group : 'Лёша Свик',
+		song : "Малиновый свет (2018)"
 	}
 ];
 
