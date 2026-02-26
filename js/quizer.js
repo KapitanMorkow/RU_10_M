@@ -1193,6 +1193,16 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_1,
 		group : 'Олег Майями',
 		song : "Отпусти (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'NЮ',
+		song : "Верь в меня (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'NЮ',
+		song : "Я буду бухать (2019)"
 	}
 ];
 
