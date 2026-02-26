@@ -1142,7 +1142,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Митя Фомин',
-		song : "Все Будет Хорошо (2010)"
+		song : "Все Будет Хорошо (2010)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
