@@ -1237,6 +1237,11 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_2,
 		group : 'Лёша Свик',
 		song : "Малиновый свет (2018)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Chris Yank',
+		song : "Холодно (2021)"
 	}
 ];
 
