@@ -1030,7 +1030,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Людмил Огурченко',
-		song : "Таити (2024)"
+		song : "Таити (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
