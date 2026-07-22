@@ -1243,6 +1243,11 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_3,
 		group : 'Chris Yank',
 		song : "Холодно (2021)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'Tony Igy (Dj)',
+		song : "Astronomia (2010)"
 	}
 ];
 
