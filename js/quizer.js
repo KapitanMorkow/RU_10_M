@@ -391,7 +391,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Григорий Лепс',
-		song : "Самый лучший день (2011)"
+		song : "Самый лучший день (2011)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
@@ -406,7 +407,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Дима Билан',
-		song : "Я просто люблю тебя (2010)"
+		song : "Я просто люблю тебя (2010)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -416,7 +418,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Григорий Лепс',
-		song : "Водопадом (2012)"
+		song : "Водопадом (2012)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
@@ -455,7 +458,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Григорий Лепс',
-		song : "Я счастливый (2013)"
+		song : "Я счастливый (2013)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
@@ -632,17 +636,20 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Сергей Лазарев',
-		song : "В Самое Сердце (2018)"
+		song : "В Самое Сердце (2018)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Сергей Лазарев',
-		song : "Шёпотом (2017)"
+		song : "Шёпотом (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
 		group : 'Сергей Лазарев',
-		song : "Это всё она (2015)"
+		song : "Это всё она (2015)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
@@ -815,7 +822,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Bobina',
-		song : "Нефть (ft DJ Smash ft Vengerov ft Matua & Averin & Kravets) (2013)"
+		song : "Нефть (ft DJ Smash ft Vengerov ft Matua & Averin & Kravets) (2013)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -950,7 +958,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'VTORNIK',
-		song : "Run Run Run (2021)"
+		song : "Run Run Run (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -960,7 +969,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'ZippO',
-		song : "Держи её за руку (2016)"
+		song : "Держи её за руку (2016)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1000,7 +1010,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Ганвест',
-		song : "Никотин (2018)"
+		song : "Никотин (2018)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1081,7 +1092,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Паша Панамо',
-		song : "Говорили (2016)"
+		song : "Говорили (2016)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1111,12 +1123,14 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Хамиль',
-		song : "Нелётная (2014)"
+		song : "Нелётная (2014)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Шым',
-		song : "Песня про месть (2016)"
+		song : "Песня про месть (2016)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1126,7 +1140,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'ЮрКисс',
-		song : "Выстрелы (2021)"
+		song : "Выстрелы (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
