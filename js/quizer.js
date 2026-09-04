@@ -1149,7 +1149,7 @@ let ru_2010_m = [
 		song : "Эта любовь (2022)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'EMIN',
 		song : "Я лучше всех живу (2013)"
 	},
@@ -1263,6 +1263,11 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_3,
 		group : 'Tony Igy (Dj)',
 		song : "Astronomia (2010)"
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'HOLLYFLAME',
+		song : "Тону (2026)"
 	}
 ];
 
