@@ -484,7 +484,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_2,
 		group : 'Макс Корж',
-		song : "Это наш путь (2022)"
+		song : "Это наш путь (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_2,
@@ -797,7 +798,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : '10AGE',
-		song : "Зоопарк (2021)"
+		song : "Зоопарк (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -807,7 +809,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'AP$ENT',
-		song : "Можно я с тобой (2022)"
+		song : "Можно я с тобой (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -817,7 +820,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Poёt',
-		song : "БЕГИ (ft DJ Smash) (2020)"
+		song : "БЕГИ (ft DJ Smash) (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -828,7 +832,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'HENSY',
-		song : "Поболело и прошло (2020)"
+		song : "Поболело и прошло (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -838,17 +843,20 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Icegergert',
-		song : "Банк (ft Zivert) (2025)"
+		song : "Банк (ft Zivert) (2025)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Jakone',
-		song : "Дорога дальняя (ft Kiliana) (2024)"
+		song : "Дорога дальняя (ft Kiliana) (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Jazzdauren',
-		song : "Дарите женщинам цветы (2024)"
+		song : "Дарите женщинам цветы (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -868,7 +876,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Limba',
-		song : "Секрет (2022)"
+		song : "Секрет (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -883,7 +892,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Mnogoznaal',
-		song : "Колхозник (2020)"
+		song : "Колхозник (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -913,32 +923,38 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : "Ramil'",
-		song : "Сияй (2020)"
+		song : "Сияй (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'SALUKI',
-		song : "ОГНЕЙ (2022)"
+		song : "ОГНЕЙ (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Саша Санта',
-		song : "Завязали (ft Артём Качер) (2024)"
+		song : "Завязали (ft Артём Качер) (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Sevak',
-		song : "Жди меня там (2020)"
+		song : "Жди меня там (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'SQWOZ BAB',
-		song : "Озеро в лесу (2024)"
+		song : "Озеро в лесу (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'ST',
-		song : "Бумер (2020)"
+		song : "Бумер (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -948,12 +964,14 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'T-Killah',
-		song : "Гречка мартини (2020)"
+		song : "Гречка мартини (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Toxi$',
-		song : "I GOT U (2024)"
+		song : "I GOT U (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1005,7 +1023,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Вова Солодков',
-		song : "Барабулька (2024)"
+		song : "Барабулька (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1026,12 +1045,14 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Гио Пика',
-		song : "Где прошла ты (ft Кравц) (2023)"
+		song : "Где прошла ты (ft Кравц) (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Ицык Цыпер',
-		song : "Дымок (2023)"
+		song : "Дымок (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1052,7 +1073,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Максим Свобода',
-		song : "Мы бы (2021)"
+		song : "Мы бы (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1062,7 +1084,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Миша Маврин',
-		song : "Французский поцелуй (ft ХАННА) (2020)"
+		song : "Французский поцелуй (ft ХАННА) (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1077,7 +1100,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'наше последнее лето',
-		song : "неважно (2024)"
+		song : "неважно (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1103,7 +1127,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_4,
 		group : 'Славик Погосов',
-		song : "Монро (2022)"
+		song : "Монро (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1118,7 +1143,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'тринадцать карат',
-		song : "закрываю глаза (2024)"
+		song : "закрываю глаза (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1146,7 +1172,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Amirchik',
-		song : "Эта любовь (2022)"
+		song : "Эта любовь (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1156,7 +1183,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'BLIZKEY',
-		song : "Горы (2024)"
+		song : "Горы (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_1,
@@ -1257,7 +1285,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Chris Yank',
-		song : "Холодно (2021)"
+		song : "Холодно (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1267,7 +1296,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'HOLLYFLAME',
-		song : "Тону (2026)"
+		song : "Тону (2026)",
+		ignore : true
 	}
 ];
 
