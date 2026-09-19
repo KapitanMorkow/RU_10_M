@@ -411,7 +411,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_1,
 		group : 'Доминик Джокер',
 		song : "Если ты со мной (2012)"
 	},
@@ -815,7 +815,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'ATL',
-		song : "Солнышко (2019)"
+		song : "Солнышко (2019)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -898,7 +899,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Mujuice',
-		song : "Кровь На Танцполе (2011)"
+		song : "Кровь На Танцполе (2011)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -906,7 +908,7 @@ let ru_2010_m = [
 		song : "Дерзкая (ft Тимати) (2015)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'Pharaon',
 		song : "5 минут назад (ft Boulevard Depo) (2016)"
 	},
@@ -957,7 +959,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'T-Fest',
 		song : "Улети (2017)"
 	},
@@ -982,7 +984,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Xcho',
-		song : "Волна (2019)"
+		song : "Волна (2019)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_4,
@@ -1110,7 +1113,7 @@ let ru_2010_m = [
 		song : "Валим (2019)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'Олег Кензов',
 		song : "#Ракетабомбапетарда (2019)"
 	},
@@ -1121,7 +1124,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'Скриптонит',
 		song : "Вечеринка (2015)"
 	},
@@ -1132,12 +1135,12 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'Смоки Мо',
 		song : "Было и было (2013)"
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'Тимур Родригез',
 		song : "О тебе (2013)"
 	},
