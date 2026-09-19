@@ -836,7 +836,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'HOMIE',
 		song : "Безумно можно быть первым (2014)"
 	},
@@ -864,7 +864,7 @@ let ru_2010_m = [
 		song : "В тебе до капли растворюсь (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'kizaru',
 		song : "Дежавю (2019)"
 	},
@@ -880,12 +880,12 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Lizer',
 		song : "Корабли (2018)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Loc-Dog',
 		song : "Снимки (2019)"
 	},
@@ -896,27 +896,27 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Mujuice',
 		song : "Кровь На Танцполе (2011)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Натан',
 		song : "Дерзкая (ft Тимати) (2015)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Pharaon',
 		song : "5 минут назад (ft Boulevard Depo) (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Пика',
 		song : "Патимэйкер (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Cygo',
 		song : "Panda E (2018)"
 	},
@@ -980,7 +980,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Xcho',
 		song : "Волна (2019)"
 	},
@@ -991,22 +991,22 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_2,
 		group : 'Zvonkiy',
 		song : "Голоса (2018)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Антоха МС',
 		song : "Время ток (2017)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Артем Пивоваров',
 		song : "Кислород (2017)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Вадяра Блюз',
 		song : "Есть как есть (2019)"
 	},
@@ -1016,7 +1016,7 @@ let ru_2010_m = [
 		song : "Еду в Магадан (2010)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Влад Соколовский',
 		song : "Осколки души (2013)"
 	},
@@ -1033,12 +1033,12 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Гарик Кричевский',
 		song : "Мой номер 245 (2016)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Гарри Топор',
 		song : "Арес 12 (2017)"
 	},
@@ -1055,7 +1055,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_2,
 		group : 'Карандаш',
 		song : "Права (2017)"
 	},
@@ -1066,7 +1066,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Макс Барских',
 		song : "Туманы (2016)"
 	},
@@ -1079,7 +1079,8 @@ let ru_2010_m = [
 	{
 		pack : RU_2010_M_PACK_3,
 		group : 'Мальбэк',
-		song : "Гипнозы (ft Сюзанна) (2017)"
+		song : "Гипнозы (ft Сюзанна) (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_M_PACK_3,
@@ -1088,7 +1089,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'МС Хованский',
 		song : "Супервейпер (2018)"
 	},
@@ -1104,7 +1105,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Нурминский',
 		song : "Валим (2019)"
 	},
@@ -1114,7 +1115,7 @@ let ru_2010_m = [
 		song : "#Ракетабомбапетарда (2019)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Паша Панамо',
 		song : "Говорили (2016)",
 		ignore : true
@@ -1136,7 +1137,7 @@ let ru_2010_m = [
 		song : "Было и было (2013)"
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Тимур Родригез',
 		song : "О тебе (2013)"
 	},
@@ -1159,7 +1160,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_4,
+		pack : RU_2010_M_PACK_3,
 		group : 'Эльбрус Джанмирзоев',
 		song : "Бродяга (2016)"
 	},
@@ -1176,7 +1177,7 @@ let ru_2010_m = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_M_PACK_3,
+		pack : RU_2010_M_PACK_1,
 		group : 'EMIN',
 		song : "Я лучше всех живу (2013)"
 	},
