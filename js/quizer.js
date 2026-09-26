@@ -1302,6 +1302,11 @@ let ru_2010_m = [
 		group : 'HOLLYFLAME',
 		song : "Тону (2026)",
 		ignore : true
+	},
+	{
+		pack : RU_2010_M_PACK_3,
+		group : 'ZippO',
+		song : "Остаток слов (2016)"
 	}
 ];
 
