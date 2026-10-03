@@ -1307,6 +1307,11 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_3,
 		group : 'ZippO',
 		song : "Остаток слов (2016)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'EMIN',
+		song : "Нежная (2019)"
 	}
 ];
 
