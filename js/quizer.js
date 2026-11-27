@@ -1312,6 +1312,16 @@ let ru_2010_m = [
 		pack : RU_2010_M_PACK_1,
 		group : 'EMIN',
 		song : "Нежная (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'ELMAN',
+		song : "Антигерой (2019)"
+	},
+	{
+		pack : RU_2010_M_PACK_1,
+		group : 'ELMAN',
+		song : "Мой океан (2018)"
 	}
 ];
 
